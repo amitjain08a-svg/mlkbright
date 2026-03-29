@@ -104,10 +104,7 @@ export default function ContactPage() {
               <div className="space-y-2">
                 <a href="mailto:shukla.dry@gmail.com" className="block text-primary-600 hover:text-primary-700 text-sm">
                   shukla.dry@gmail.com
-                </a>
-                <a href="mailto:shukla.dry@gmail.com" className="block text-primary-600 hover:text-primary-700 text-sm">
-                  shukla.dry@gmail.com
-                </a>
+                </a>                
               </div>
               <p className="text-xs text-neutral-500 mt-2">Response within 4 hours</p>
             </div>
