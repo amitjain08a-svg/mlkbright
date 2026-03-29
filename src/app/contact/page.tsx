@@ -105,8 +105,8 @@ export default function ContactPage() {
                 <a href="mailto:shukla.dry@gmail.com" className="block text-primary-600 hover:text-primary-700 text-sm">
                   shukla.dry@gmail.com
                 </a>
-                <a href="mailto:exports@brightmlk.in" className="block text-primary-600 hover:text-primary-700 text-sm">
-                  exports@brightmlk.in
+                <a href="mailto:shukla.dry@gmail.com" className="block text-primary-600 hover:text-primary-700 text-sm">
+                  shukla.dry@gmail.com
                 </a>
               </div>
               <p className="text-xs text-neutral-500 mt-2">Response within 4 hours</p>
@@ -321,16 +321,16 @@ export default function ContactPage() {
                 <div className="text-3xl mb-2 text-primary-600">📦</div>
                 <h3 className="font-semibold text-neutral-900 mb-1">Bulk Orders</h3>
                 <p className="text-xs text-neutral-500 mb-2">Minimum 1000kg • Industrial Grade</p>
-                <a href="mailto:exports@brightmlk.in" className="text-primary-600 text-sm hover:text-primary-700">
-                  exports@brightmlk.in
+                <a href="mailto:shukla.dry@gmail.com" className="text-primary-600 text-sm hover:text-primary-700">
+                  shukla.dry@gmail.com
                 </a>
               </div>
               <div className="text-center p-4 border-x border-neutral-200">
                 <div className="text-3xl mb-2 text-primary-600">🤝</div>
                 <h3 className="font-semibold text-neutral-900 mb-1">Partner Portal</h3>
                 <p className="text-xs text-neutral-500 mb-2">Suppliers • Distributors</p>
-                <a href="mailto:partners@brightmlk.in" className="text-primary-600 text-sm hover:text-primary-700">
-                  partners@brightmlk.in
+                <a href="shukla.dry@gmail.com" className="text-primary-600 text-sm hover:text-primary-700">
+                  shukla.dry@gmail.com
                 </a>
               </div>
               <div className="text-center p-4">

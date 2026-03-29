@@ -556,8 +556,7 @@ export default function CareersPage() {
 
           {/* Contact Info */}
           <div className="flex flex-wrap gap-6 justify-center mt-8 text-sm text-white/80">
-            <span>📞 +91-8750751765</span>
-            <span>✉️ careers@brightmlk.in</span>
+            <span>📞 +91-8750751765</span>            
             <span>📍 Delhi NCR</span>
           </div>
         </div>
